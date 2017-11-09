@@ -1,9 +1,11 @@
 html {
   box-sizing: border-box;
+  margin: 0 auto;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+  margin: 0 auto;
 }
 
 body {
