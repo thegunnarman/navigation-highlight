@@ -19,13 +19,13 @@ h1 {
   font-size: 3rem;
   color: #b20953;
   margin: 0;
-  padding: 0;
+
 }
 
 header {
   background-color: #ffe500;
   text-align: center;
-  padding: .4em;
+  padding: .2em .5em .3em;
 }
 
 main {
@@ -45,6 +45,7 @@ h2 {
   font-family: "Sigmar One", cursive;
   font-size: 1.875rem;
   color: #b20953;
+  padding: .75em;
 }
 
 li {
